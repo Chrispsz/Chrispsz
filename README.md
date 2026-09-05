@@ -4,6 +4,7 @@
 
 - 🔭 **Agora:** [Hub de Estudos IFPB](https://github.com/Chrispsz/hub-estudos-ifpb) — app Next.js para organizar a faculdade (2026.2)
 - 🚀 **Destaque:** [Naruto Online Launcher](https://github.com/Chrispsz/naruto-online-launcher) — launcher multi-conta com vault criptografado e releases automáticas
+- 🛠️ **Ferramentas:** [RVCArise](https://github.com/Chrispsz/rvcbotbuilds) — builds diárias de YouTube/YT Music mods · [Planilista](https://github.com/Chrispsz/Chrispsz.github.io) — meu site pessoal
 - 🌱 **Aprendendo:** arquitetura de software, Kotlin/Android e escrita de código limpo
 - 🤖 **Como eu trabalho com IA:** como ferramenta de aprendizado e produtividade — decisões, revisão e commits são meus
 
