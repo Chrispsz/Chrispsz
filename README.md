@@ -1,6 +1,6 @@
 # Hey, I'm Christovão (Chrispsz) 👋
 
-**Systems Analysis & Development student @ IFPB Cajazeiras · Brazil**
+**Systems Analysis & Development student
 
 I build tools that solve *my own* problems end-to-end — desktop launchers, keyboard firmware drivers, streaming players and game optimizers. I care about privacy (zero telemetry), performance tuning and interfaces that feel effortless.
 
